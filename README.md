@@ -23,4 +23,5 @@ QUÈ ÉS CADA FITXER:
    - DataTrain_Comprimit.zip: lletres i numeros separats després del data augmentation.
 
 6. **CLASSIFICADOR**:
-   - TrainingModel_SVC.ipynb
+   - TrainingModel_SVC_SyntheticData.ipynb
+   - TrainingModel_KNN_SyntheticData.ipynb
