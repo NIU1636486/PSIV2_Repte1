@@ -10,8 +10,8 @@ A continuació detallarem que inclou aquest repositori:
 **Fitxers importants:**
 
 - **model_definitu.ipynb:** Es tracta del model definitu del nostre treball, on agrupem les diferents fases de l'algoritme.
-- **informe_final.pdf:** L'informe on es recull el procés i la metodologia seguida per realitzar el repte.
-- **presentació_repte_I.ppt:** El Power Point de la presentació del treball.
+- **MPASIV_RepteI_Grup7.pdf:** L'informe on es recull el procés i la metodologia seguida per realitzar el repte.
+- **presentació_repteI.ppt:** El Power Point de la presentació del treball.
 
 **Carpetes del repositori:**
 
